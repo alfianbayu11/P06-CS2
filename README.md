@@ -1,2 +1,2 @@
 # P06-CS2
-1809090109 Alfian Bayu 4C
+18090109 Alfian Bayu 4C
